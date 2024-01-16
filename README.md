@@ -1,19 +1,17 @@
 # Todo Project
 
-This is a simple Todo project implemented with HTML, CSS, and JavaScript using the Document Object Model (DOM). The project allows users to create, update, and delete tasks in a todo list.
+This is a simple Todo project implemented with HTML, CSS, and JavaScript using the Document Object Model (DOM). The project allows users to create,mark it as complete and delete tasks in a todo list.
 
 ## Features
 
 - **Add Task:** Users can add new tasks to the todo list.
-- **Update Task:** Users can mark tasks as complete or update the task description.
 - **Delete Task:** Users can delete tasks from the todo list.
-- **Persistent Storage:** Task data is stored in the browser's local storage for persistence across page reloads.
-
+- 
 ## Getting Started
 
 To run this project locally, follow these steps:
 
-1. Clone the repository:
+1.Clone the repository:
 
    ```bash
    git clone https://github.com/your-username/todo-project.git
@@ -31,18 +29,9 @@ To run this project locally, follow these steps:
 
 2. Use the following features:
 
-   - **Add Task:** Type a task in the input field and click the "Add Task" button.
-   - **Update Task:** Click on a task to mark it as complete. Double-click on a task to update its description.
-   - **Delete Task:** Click on the "Delete" button next to a task to remove it from the list.
+   - **Add Task:** Type a task in the input field and click the "+" button.
+   - **Mark-it-as-complete:** Click on the checkbox to mark the task as complete.
+   - **Delete Task:** Click on the red cross button next to the checkbox to delete the rask.
 
-3. Tasks are stored in local storage, so they will persist even if you reload the page.
 
-# Contributing
-
-Contributions are welcome! Please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make changes and test them thoroughly.
-4. Submit a pull request.
 
