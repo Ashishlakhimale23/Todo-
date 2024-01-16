@@ -5,17 +5,10 @@ This is a simple Todo project implemented with HTML, CSS, and JavaScript using t
 ## Features
 
 - **Add Task:** Users can add new tasks to the todo list.
+- **Mark-it-as-complete:** User can mark the task as complete.
 - **Delete Task:** Users can delete tasks from the todo list.
-- 
-## Getting Started
 
-To run this project locally, follow these steps:
 
-1.Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/todo-project.git
-   
 # Project Structure
 
 - **index.html:** The main HTML file containing the structure of the todo list.
